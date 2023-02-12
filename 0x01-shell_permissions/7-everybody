@@ -1,0 +1,2 @@
+#!/bine/bash/
+chmod ugo+x hello
