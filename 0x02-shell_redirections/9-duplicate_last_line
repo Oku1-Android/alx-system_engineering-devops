@@ -1,0 +1,2 @@
+#!/bin/bas
+tail -n 1 iacta >> iacta
